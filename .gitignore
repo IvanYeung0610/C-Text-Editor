@@ -1,3 +1,14 @@
+# Extensionless files & folders
+*
+!/**/
+!*.*
+**/*Zone.Identifier
+.vs
+.vscode
+build
+lmao
+.histfile
+
 # Prerequisites
 *.d
 
@@ -31,5 +42,5 @@
 *.out
 *.app
 
-# Perry
-.histfile
+# Not makefile
+!makefile
