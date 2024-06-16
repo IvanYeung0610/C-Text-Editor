@@ -1,2 +1,2 @@
 kilo: kilo.cpp
-	g++ kilo.cpp -o kilo -Wall -Wextra -pedantic -std=c++17
+	g++ kilo.cpp -o kilo -Wall -Wextra -pedantic -std=c++11
